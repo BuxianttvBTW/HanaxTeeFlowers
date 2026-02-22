@@ -1,0 +1,24 @@
+{
+  "name": "flowers",
+  "version": "1.1.0",
+  "description": "Map and list of flower names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bloompop/Flowers.git"
+  },
+  "keywords": [
+    "flowers"
+  ],
+  "files": [
+    "flowers.csv",
+    "index.js"
+  ],
+  "author": "Matt Scandalis",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "5488716db877ccc71099f42ba5bfcd0d0034fcad"
+}
